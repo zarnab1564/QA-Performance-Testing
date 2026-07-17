@@ -1,6 +1,6 @@
 # ⚡ QA Performance Testing
 
-Performance testing scripts by **Zarnab** — QA Engineer with 4+ years of experience.
+Performance testing scripts by **Zarnab** QA Engineer with 4+ years of experience.
 
 ## 📁 Projects
 
